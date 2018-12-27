@@ -1,0 +1,9 @@
+export const SOMETHING_WENT_WRONG  = 'Something went wrong.';
+export const PROPERTY_LIST_API_URL = 'http://demo8213882.mockable.io/fetchProperties'; 
+export const IMAGE_BASE_URL        = 'https://images.nobroker.in/images/';
+export const NO_IMAGE_URL          = 'https://www.fourrwalls.com/images/no_image.jpg'; //my own image because provided image url not working
+export const PAGER_LENGTH          = 6;
+export const FILTER_PSIZE_MIN      = 0;
+export const FILTER_PSIZE_MAX      = 1500;
+export const FILTER_RENT_MIN       = 0;
+export const FILTER_RENT_MAX       = 150000;
